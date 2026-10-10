@@ -15,14 +15,14 @@ Each phase is analyzed for **two tuning targets**: aggressive sports and comfort
 2008 Honda Accord V6 EX-L (8th gen, 225/50R17) with aftermarket struts of unknown specification — modeled as a measured baseline + two design alternatives.
 
 ## Repository Structure
-├── Phase1_1DOF/ 
+'''├── Phase1_1DOF/ 
 ├── Phase2_2DOF/ 
 ├── Phase3_4DOF/ 
 ├── Parameters/ 
 ├── RoadProfiles/ 
 ├── Analysis/ 
 └── Report/ 
-
+'''
 ## Key Deliverables
 - Parameterized Simulink models for all three phases (`.slx`)
 - MATLAB scripts for computational analysis and performance charts
